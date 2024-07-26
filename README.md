@@ -5,3 +5,5 @@ This is a supporting repo for the Race and Redistricting Expert Project, a train
 This repo contains location-specific folders with shapefiles, election data, and other supporting materials.  They were prepared by Peter Horton of the Redistricting Data Hub for use in this project.
 
 Additional information for each locality available here: https://docs.google.com/document/d/1QcsN5jdRrdeGf5z8VdeedDBQbSoopwpQorUkQrq_nWo/edit?usp=sharing
+
+In case you misplaced it, or no longer have access, the code notebook we were provided at the SPLC training is linked here: https://colab.research.google.com/drive/1Ks57vojTBXnbsohswZgEsTzrOcrlx6Nb
