@@ -6,7 +6,7 @@ This repo contains location-specific folders with shapefiles, election data, and
 
 Additional information for each locality available here: https://docs.google.com/document/d/1QcsN5jdRrdeGf5z8VdeedDBQbSoopwpQorUkQrq_nWo/edit?usp=sharing
 
-In case you misplaced it, or no longer have access, the code notebook we were provided at the SPLC training is linked here: https://colab.research.google.com/drive/1Ks57vojTBXnbsohswZgEsTzrOcrlx6Nb
+In case you misplaced it, or no longer have access, the code notebook we were provided at the SPLC training is linked here (please make your own copy of the file): https://colab.research.google.com/drive/1Ks57vojTBXnbsohswZgEsTzrOcrlx6Nb
 
 The ten jurisdictions are:
 1. Jefferson Parish, Louisiana: Parish Commission
